@@ -5,9 +5,9 @@
 ![alt text](https://i.imgur.com/ldIJyRt.png)
 ![alt text](https://i.imgur.com/hXWODmf.png)
 ![alt text](https://i.imgur.com/85JQtWB.png)
-![alt text](https://i.imgur.com/H56agpf.png)
 ![alt text](https://i.imgur.com/t1DRQaA.png)
 ![alt text](https://i.imgur.com/yuQtlcx.png)
+![alt text](https://i.imgur.com/H56agpf.png)
 
 # ChatSync chat em tempo real
 
