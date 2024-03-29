@@ -17,7 +17,7 @@ Projeto criado para aprimorar conhecimentos em php
 ## Funcionalidades
 
 - Chat em tempo real
-- Validão de dados
+- Validação de dados
 - Senhas criptografadas
 - Criação de usario e login por banco de dados
 - Landing page de apresentação do produto
