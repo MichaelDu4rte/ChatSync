@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             $emailCheckQuery = pg_prepare($connect, "email_check_query", "SELECT email FROM users WHERE email = $1");
             $result = pg_execute($connect, "email_check_query", array($email));
             if (pg_num_rows($result) > 0) {
-                echo "$email - o e-mail já está sendo usado.";
+                echo "$email - E-mail já está sendo usado.";
             } else {
                 if (isset($_FILES['image']) && isValidImage($_FILES['image'])) {
                     $imgName = $_FILES['image']['name'];
@@ -72,7 +72,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 }
             }
         } else {
-            echo "$email - endereço de e-mail inválido.";
+            echo "Endereço de e-mail inválido.";
         }
     } else {
         echo "Todos os campos são obrigatórios.";
