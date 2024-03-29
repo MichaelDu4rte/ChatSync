@@ -2,7 +2,10 @@
 
 ## Apresentação
 
-![alt text](https://github.com/MichaelDu4rte/ChatSync/assets/97355909/a734df0f-76a4-461e-9abc-28ef88d28437)
+![alt text](https://i.imgur.com/ldIJyRt.png)
+![alt text](https://i.imgur.com/hXWODmf.png)
+![alt text](https://i.imgur.com/85JQtWB.png)
+![alt text](https://i.imgur.com/H56agpf.png)
 
 # ChatSync chat em tempo real
 
@@ -13,7 +16,7 @@ Projeto criado para aprimorar conhecimentos em php
 
 - Chat em tempo real
 - Validão de dados
-- Senhas criptografasdas
+- Senhas criptografadas
 - Criação de usario e login por banco de dados
 - Landing page de apresentação do produto
 
